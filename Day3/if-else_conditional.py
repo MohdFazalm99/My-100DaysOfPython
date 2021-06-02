@@ -21,7 +21,7 @@ height = int(input("What is your height in cm? "))
 if height >= 120:
   print("You can ride the rollercoaster")
 else:
-  print("Sorry! you have grow-up taller to ride the rollercoaster")
+  print("Sorry! you have grow-up taller to ride the rollercoaster\n")
 
 # Example 2
 number = int(input("Which number do you want to check? "))
