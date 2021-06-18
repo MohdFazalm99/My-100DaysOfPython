@@ -1,6 +1,7 @@
 # ----------------------SCOPE-------------------------
 
-""" A variable is only available from inside the region it is created. This is called scope."""
+""" A variable is only available from inside the region it is created. This is called scope.
+----------In python there is no such thing as Block Scope which is in my language like c, c++, java ------------ """
 
 # Local scope:
 
