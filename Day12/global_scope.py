@@ -6,3 +6,4 @@ URL = "https://www.google.com"
 TWITTER_HANDLE = "@yu_angela"
 
 # WE can define global cosntant in lowerCase but it is a standard way to define global constant in UpperCase
+
